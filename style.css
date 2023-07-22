@@ -1,0 +1,104 @@
+body{
+
+    background-image: url(top-view-white-toy-airplane-model-blue-color-background-concept-travel_43448-410\ \(1\).png);
+    background-color: #4A55A2;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    /* z-index: 2; */
+    padding: 15px;
+}
+
+.upper-section{
+    /* background-color: #7895CB; */
+    position: relative;
+}
+
+.upper-section h1{
+    text-align: left;
+}
+.upper-section img{
+    height:3rem;
+    width:3rem;
+    position:absolute;
+    left: 95%;
+    bottom:100px;
+    
+}
+
+.second{
+    background-color: #4A55A2;
+    text-align: center;
+}
+
+.second a{
+    padding: 40px;
+    color: white;
+}
+
+.main-about img{
+    height:200px;
+    width:185px;
+    border-radius: 50%;
+    float:left;
+    margin: 10px 40px 10px 10px;
+
+}
+.wd{
+    color: rgb(206, 221, 216);
+    font-weight: 600;
+}
+.ds{
+    color:rgb(206, 221, 216);
+    font-weight: 500;
+}
+.atc{
+    color: aquamarine;
+    font-weight: 700;
+}
+.just-upper-lower{
+    background-color: #4A55A2;
+}
+.just-upper-lower h3{
+    text-align: center;
+}
+.lower img{
+    height: 120px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.project1 , .project2 , .project3{
+    display: inline-block;
+    width: auto;
+    text-align: center;
+}
+
+.project1{
+    position: relative;
+    left:300px;
+}
+.project3{
+    position: relative;
+    left:500px;
+}
+.project2{
+    position: relative;
+    left: 400px;
+}
+body>h3{
+    background-color: #4A55A2;
+    text-align: center;
+}
+
+footer img{
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    width: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
